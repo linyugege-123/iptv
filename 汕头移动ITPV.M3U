@@ -309,4 +309,9 @@ http://r.jdshipin.com/NfC0f
 http://r.jdshipin.com/n2YZI
 #EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="港澳",澳视卫星
 http://r.jdshipin.com/QFhCq
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="台湾",中天新闻
+https://stream1.freetv.fun/dc3d00ce128ed004b69c0f097e7387974e77e68e472acf9a85ada5a751eb46a2.ctv
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="台湾",中视新闻
+rtmp://f13h.mine.nu:1935/sat/tv091
+
 
