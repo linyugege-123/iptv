@@ -263,8 +263,10 @@ http://192.168.50.1:22025/rtp/239.21.0.112:3788
 http://192.168.50.1:22025/rtp/239.21.0.114:3796
 #EXTINF:-1 group-title="外语" tvg-name="CGTN纪录" tvg-logo="http://175.178.182.213/tb/CGTN纪录.png" epg-url="http://epg.51zmt.top:8000/e.xm",CGTN纪录
 http://192.168.50.1:22025/rtp/239.21.0.110:3780
-#EXTM3U
-#EXTM3U x-tvg-url="https://epg.iill.top/epg"
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="台湾",中天新闻
+https://stream1.freetv.fun/966a882718752fcf477567b8ecca5a53feb6bbf6b7e60a8d1030f9be6892c25d.ctv
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="台湾",中视新闻
+https://stream1.freetv.fun/5f3d68b2efc102fc2339fa5b60d4b2abde1aa0bb446fb9fabe6cf9a7ab38198f.ctv
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://175.178.182.213/tb/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://175.178.182.213/tb/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳",翡翠台
@@ -325,16 +327,6 @@ http://r.jdshipin.com/NfC0f
 http://r.jdshipin.com/n2YZI
 #EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="港澳",澳视卫星
 http://r.jdshipin.com/QFhCq
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="台湾",中天新闻
-https://stream1.freetv.fun/dc3d00ce128ed004b69c0f097e7387974e77e68e472acf9a85ada5a751eb46a2.ctv
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="台湾",中视新闻
-https://stream1.freetv.fun/5f3d68b2efc102fc2339fa5b60d4b2abde1aa0bb446fb9fabe6cf9a7ab38198f.ctv
-#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="台湾",台视新闻
-https://stream1.freetv.fun/951c9a1e000b71d29e4a3c57952c9f53b82f2e3bd5133e6e608ac880c5ba7976.ctv
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="台湾",东森新闻
-https://stream1.freetv.fun/9c19eb3cd3c8dd4f5a4e3f2f0e0c3d43e978516935419d6b219725490c7779a4.ctv
-#EXTINF:-1 tvg-id="环宇新闻" tvg-name="环宇新闻" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="台湾",环宇新闻
-https://stream1.freetv.fun/5a7fe5496589912773ea89a02c9a2e64c47710347689148d1764008626f08728.ctv
 #EXTINF:-1 tvg-id="astro欢喜" tvg-name="astro欢喜" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="马来西亚",astro欢喜
 https://stream1.freetv.fun/85653727e5f1c2fea29f19ac4ab35773d7bc4e510dee12c0629f525bd285a3de.ctv
 #EXTINF:-1 tvg-id="astro欢喜" tvg-name="astro欢喜" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="马来西亚",astro欢喜
@@ -349,6 +341,7 @@ https://stream1.freetv.fun/edb46bedad805aa9b93badaaf0f5da9e1acf08a4f42b865653dda
 https://stream1.freetv.fun/4c6aa2cbe15446903a86f38c0dd4473218ee74748367b12f2e5440d43fe5db88.ctv
 #EXTINF:-1 tvg-id="astro Ria" tvg-name="astro Ria" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="马来西亚",astro Ria
 https://stream1.freetv.fun/4d89e248dc3c312e5a8496bd54d9a094ea35e3897a7ee36417fdea51b0c57037.ctv
+
 
 
 
