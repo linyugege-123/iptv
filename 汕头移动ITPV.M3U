@@ -27,6 +27,8 @@ http://192.168.50.1:22025/rtp/239.21.0.169:4024
 http://192.168.50.1:22025/rtp/239.21.0.170:4028
 #EXTINF:-1 group-title="4K" tvg-name="山东卫视4K" tvg-logo="http://175.178.182.213/tb/山东卫视4K.png" epg-url="http://epg.51zmt.top:8000/e.xm",山东卫视4K
 http://192.168.50.1:22025/rtp/239.21.0.171:4032
+#EXTINF:-1 group-title="4K" tvg-name="咪咕4K" tvg-logo="http://175.178.182.213/tb/咪咕4K.png" epg-url="http://epg.51zmt.top:8000/e.xm",咪咕4K
+http://192.168.50.1:22025/rtp/239.20.0.66:3136
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-1综合" tvg-logo="http://175.178.182.213/tb/CCTV-1综合.png" epg-url="http://epg.51zmt.top:8000/e.xm",CCTV-1综合
 http://192.168.50.1:22025/rtp/239.20.0.104:2006
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-1综合" tvg-logo="http://175.178.182.213/tb/CCTV-1综合.png" epg-url="http://epg.51zmt.top:8000/e.xm",CCTV-1综合
@@ -341,6 +343,7 @@ https://stream1.freetv.fun/edb46bedad805aa9b93badaaf0f5da9e1acf08a4f42b865653dda
 https://stream1.freetv.fun/4c6aa2cbe15446903a86f38c0dd4473218ee74748367b12f2e5440d43fe5db88.ctv
 #EXTINF:-1 tvg-id="astro Ria" tvg-name="astro Ria" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="马来西亚",astro Ria
 https://stream1.freetv.fun/4d89e248dc3c312e5a8496bd54d9a094ea35e3897a7ee36417fdea51b0c57037.ctv
+
 
 
 
