@@ -215,11 +215,11 @@ http://192.168.50.1:22025/rtp/239.21.0.146:3928
 http://192.168.50.1:22025/rtp/239.21.0.89:3696
 #EXTINF:-1 group-title="地方" tvg-name="汕尾文化生活" tvg-logo="http://175.178.182.213/tb/汕尾文化生活.png" epg-url="http://epg.51zmt.top:8000/e.xm",汕尾文化生活
 http://192.168.50.1:22025/rtp/239.21.0.90:3700
-#EXTINF:-1 group-title="地方" tvg-name="惠州综合" tvg-logo="http://175.178.182.213/tb/惠州综合.png" epg-url="http://epg.51zmt.top:8000/e.xm",惠州综合
+#EXTINF:-1 group-title="地方" tvg-name="惠州综合" tvg-logo="http://175.178.182.213/tb/惠州综合.png" epg-url="http://epg.51zmt.top:8000/e.xm",HZTV-1
 http://192.168.50.1:22025/rtp/239.21.0.27:3448
-#EXTINF:-1 group-title="地方" tvg-name="惠州公共" tvg-logo="http://175.178.182.213/tb/惠州公共.png" epg-url="http://epg.51zmt.top:8000/e.xm",惠州公共
+#EXTINF:-1 group-title="地方" tvg-name="惠州公共" tvg-logo="http://175.178.182.213/tb/惠州公共.png" epg-url="http://epg.51zmt.top:8000/e.xm",HZTZ-2
 http://192.168.50.1:22025/rtp/239.21.0.28:3452
-#EXTINF:-1 group-title="地方" tvg-name="东莞新闻综合" tvg-logo="http://175.178.182.213/tb/东莞新闻综合.png" epg-url="http://epg.51zmt.top:8000/e.xm",东莞新闻综合
+#EXTINF:-1 group-title="地方" tvg-name="东莞综合" tvg-logo="http://175.178.182.213/tb/东莞综合.png" epg-url="http://epg.51zmt.top:8000/e.xm",东莞综合
 http://192.168.50.1:22025/rtp/239.21.0.137:3892
 #EXTINF:-1 group-title="地方" tvg-name="东莞生活资讯" tvg-logo="http://175.178.182.213/tb/东莞生活资讯.png" epg-url="http://epg.51zmt.top:8000/e.xm",东莞生活资讯
 http://192.168.50.1:22025/rtp/239.21.0.138:3896
@@ -343,6 +343,7 @@ https://stream1.freetv.fun/edb46bedad805aa9b93badaaf0f5da9e1acf08a4f42b865653dda
 https://stream1.freetv.fun/4c6aa2cbe15446903a86f38c0dd4473218ee74748367b12f2e5440d43fe5db88.ctv
 #EXTINF:-1 tvg-id="astro Ria" tvg-name="astro Ria" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="马来西亚",astro Ria
 https://stream1.freetv.fun/4d89e248dc3c312e5a8496bd54d9a094ea35e3897a7ee36417fdea51b0c57037.ctv
+
 
 
 
