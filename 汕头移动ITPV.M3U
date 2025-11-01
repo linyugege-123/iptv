@@ -239,7 +239,7 @@ http://192.168.50.1:22025/rtp/239.21.0.142:3912
 http://192.168.50.1:22025/rtp/239.21.0.106:3764
 #EXTINF:-1 group-title="教育" tvg-name="现代教育" tvg-logo="http://175.178.182.213/tb/现代教育.png" epg-url="http://epg.51zmt.top:8000/e.xm",现代教育
 http://192.168.50.1:22025/rtp/239.21.0.148:3936
-#EXTINF:-1 group-title="体育" tvg-name="IPTV5+" tvg-logo="http://175.178.182.213/tb/IPTV5+.png" epg-url="http://epg.51zmt.top:8000/e.xm",IPTV5+
+#EXTINF:-1 group-title="体育" tvg-name="IPTV5+" tvg-logo="https://epg.51zmt.top:8001/tb1/qt/IPTV5+.png" epg-url="http://epg.51zmt.top:8000/e.xm",IPTV5+
 http://192.168.50.1:22025/rtp/239.20.0.208:2214
 #EXTINF:-1 group-title="纪实" tvg-name="纪实人文" tvg-logo="http://175.178.182.213/tb/纪实人文.png" epg-url="http://epg.51zmt.top:8000/e.xm",纪实人文
 http://192.168.50.1:22025/rtp/239.20.0.57:3172
@@ -251,19 +251,17 @@ http://192.168.50.1:22025/rtp/239.20.0.196:2190
 http://192.168.50.1:22025/rtp/239.21.0.94:3716
 #EXTINF:-1 group-title="少儿" tvg-name="金鹰卡通" tvg-logo="http://175.178.182.213/tb/金鹰卡通.png" epg-url="http://epg.51zmt.top:8000/e.xm",金鹰卡通
 http://192.168.50.1:22025/rtp/239.21.0.115:3804
-#EXTINF:-1 group-title="外语" tvg-name="CGTN英语" tvg-logo="http://175.178.182.213/tb/CGTN英语.png" epg-url="http://epg.51zmt.top:8000/e.xm",CGTN英语
+#EXTINF:-1 group-title="外语" tvg-name="CGTN英语" tvg-logo="https://isus.cc/share/logo/CGTN" epg-url="http://epg.51zmt.top:8000/e.xm",CGTN英语
 http://192.168.50.1:22025/rtp/239.21.0.109:3776
-#EXTINF:-1 group-title="外语" tvg-name="CGTN西语" tvg-logo="http://175.178.182.213/tb/CGTN西语.png" epg-url="http://epg.51zmt.top:8000/e.xm",CGTN西语
+#EXTINF:-1 group-title="外语" tvg-name="CGTN西语" tvg-logo="https://isus.cc/share/logo/CGTN-西班牙语.png" epg-url="http://epg.51zmt.top:8000/e.xm",CGTN西语
 http://192.168.50.1:22025/rtp/239.21.0.111:3800
-#EXTINF:-1 group-title="外语" tvg-name="CGTN阿语" tvg-logo="http://175.178.182.213/tb/CGTN阿语.png" epg-url="http://epg.51zmt.top:8000/e.xm",CGTN阿语
-http://192.168.50.1:22025/rtp/239.11.0.107:1025
-#EXTINF:-1 group-title="外语" tvg-name="CGTN阿语" tvg-logo="http://175.178.182.213/tb/CGTN阿语.png" epg-url="http://epg.51zmt.top:8000/e.xm",CGTN阿语
+#EXTINF:-1 group-title="外语" tvg-name="CGTN阿语" tvg-logo="https://isus.cc/share/logo/CGTN-阿拉伯语.png" epg-url="http://epg.51zmt.top:8000/e.xm",CGTN阿语
 http://192.168.50.1:22025/rtp/239.21.0.113:3792
-#EXTINF:-1 group-title="外语" tvg-name="CGTN法语" tvg-logo="http://175.178.182.213/tb/CGTN法语.png" epg-url="http://epg.51zmt.top:8000/e.xm",CGTN法语
+#EXTINF:-1 group-title="外语" tvg-name="CGTN法语" tvg-logo="https://isus.cc/share/logo/CGTN-法语.png" epg-url="http://epg.51zmt.top:8000/e.xm",CGTN法语
 http://192.168.50.1:22025/rtp/239.21.0.112:3788
-#EXTINF:-1 group-title="外语" tvg-name="CGTN俄语" tvg-logo="http://175.178.182.213/tb/CGTN俄语.png" epg-url="http://epg.51zmt.top:8000/e.xm",CGTN俄语
+#EXTINF:-1 group-title="外语" tvg-name="CGTN俄语" tvg-logo="https://isus.cc/share/logo/CGTN-俄语.png" epg-url="http://epg.51zmt.top:8000/e.xm",CGTN俄语
 http://192.168.50.1:22025/rtp/239.21.0.114:3796
-#EXTINF:-1 group-title="外语" tvg-name="CGTN纪录" tvg-logo="http://175.178.182.213/tb/CGTN纪录.png" epg-url="http://epg.51zmt.top:8000/e.xm",CGTN纪录
+#EXTINF:-1 group-title="外语" tvg-name="CGTN纪录" tvg-logo="http://175.178.182.213/tb/CGTN-纪录.png" epg-url="http://epg.51zmt.top:8000/e.xm",CGTN纪录
 http://192.168.50.1:22025/rtp/239.21.0.110:3780
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="http://175.178.182.213/tb/中天新闻台.png" group-title="台湾",中天新闻
 rtmp://123.161.179.74/live/yifatv-ztxw01
@@ -345,6 +343,7 @@ https://stream1.freetv.fun/edb46bedad805aa9b93badaaf0f5da9e1acf08a4f42b865653dda
 https://stream1.freetv.fun/4c6aa2cbe15446903a86f38c0dd4473218ee74748367b12f2e5440d43fe5db88.ctv
 #EXTINF:-1 tvg-id="astro Ria" tvg-name="astro Ria" tvg-logo="http://175.178.182.213/tb/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="马来西亚",astro Ria
 https://stream1.freetv.fun/4d89e248dc3c312e5a8496bd54d9a094ea35e3897a7ee36417fdea51b0c57037.ctv
+
 
 
 
