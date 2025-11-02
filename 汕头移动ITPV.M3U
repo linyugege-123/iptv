@@ -97,21 +97,21 @@ http://192.168.50.1:22025/rtp/239.21.0.88:3692
 http://192.168.50.1:22025/rtp/239.20.0.202:2202
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-15音乐" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV15.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV15
 http://192.168.50.1:22025/rtp/239.21.0.36:3484
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-16奥林匹克" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV16.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV16克
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-16奥林匹克" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV16.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV16
 http://192.168.50.1:22025/rtp/239.21.0.116:3808
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-17农村农业" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV17.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV17
 http://192.168.50.1:22025/rtp/239.20.0.7:3376
-#EXTINF:-1 group-title="央视" tvg-name="CCTV央视台球" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/央视台球.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV央视台球
+#EXTINF:-1 group-title="央视" tvg-name="CCTV央视台球" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/央视台球.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",央视台球
 http://192.168.50.1:22025/rtp/239.21.0.71:3624
 #EXTINF:-1 group-title="央视" tvg-name="CCTV高尔夫·网球" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/高尔夫网球.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV高尔夫·网球
 http://192.168.50.1:22025/rtp/239.21.0.72:3628
-#EXTINF:-1 group-title="央视" tvg-name="CCTV央视精品" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/央视精品.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV央视精品
+#EXTINF:-1 group-title="央视" tvg-name="CCTV央视精品" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/央视精品.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",央视精品
 http://192.168.50.1:22025/rtp/239.21.0.77:3648
 #EXTINF:-1 group-title="央视" tvg-name="CCTV兵器科技" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/兵器科技.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV兵器科技
 http://192.168.50.1:22025/rtp/239.21.0.80:3660
 #EXTINF:-1 group-title="央视" tvg-name="CCTV电视指南" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/电视指南.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV电视指南
 http://192.168.50.1:22025/rtp/239.21.0.81:3664
-#EXTINF:-1 group-title="央视" tvg-name="CCTV第一剧场" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/第一剧场.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV第一剧场
+#EXTINF:-1 group-title="央视" tvg-name="CCTV第一剧场" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/第一剧场.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",第一剧场
 http://192.168.50.1:22025/rtp/239.21.0.78:3652
 #EXTINF:-1 group-title="央视" tvg-name="CCTV怀旧剧场" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/怀旧剧场.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV怀旧剧场
 http://192.168.50.1:22025/rtp/239.21.0.75:3640
@@ -379,6 +379,7 @@ https://stream1.freetv.fun/edb46bedad805aa9b93badaaf0f5da9e1acf08a4f42b865653dda
 https://stream1.freetv.fun/4c6aa2cbe15446903a86f38c0dd4473218ee74748367b12f2e5440d43fe5db88.ctv
 #EXTINF:-1 tvg-id="astro Ria" tvg-name="astro Ria" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="马来西亚",astro Ria
 https://stream1.freetv.fun/4d89e248dc3c312e5a8496bd54d9a094ea35e3897a7ee36417fdea51b0c57037.ctv
+
 
 
 
