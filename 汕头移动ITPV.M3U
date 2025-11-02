@@ -215,7 +215,7 @@ http://192.168.50.1:22025/rtp/239.21.0.89:3696
 http://192.168.50.1:22025/rtp/239.21.0.90:3700
 #EXTINF:-1 group-title="地方" tvg-name="惠州综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/惠州一套.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",HZTV-1
 http://192.168.50.1:22025/rtp/239.21.0.27:3448
-#EXTINF:-1 group-title="地方" tvg-name="惠州公共" tvg-logo="hhttps://gitee.com/mytv-android/myTVlogo/raw/master/img/惠州二套.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",HZTZ-2
+#EXTINF:-1 group-title="地方" tvg-name="惠州公共" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/惠州二套.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",HZTZ-2
 http://192.168.50.1:22025/rtp/239.21.0.28:3452
 #EXTINF:-1 group-title="地方" tvg-name="东莞综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/东莞新闻综合.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",东莞综合
 http://192.168.50.1:22025/rtp/239.21.0.137:3892
@@ -338,6 +338,7 @@ https://stream1.freetv.fun/edb46bedad805aa9b93badaaf0f5da9e1acf08a4f42b865653dda
 https://stream1.freetv.fun/4c6aa2cbe15446903a86f38c0dd4473218ee74748367b12f2e5440d43fe5db88.ctv
 #EXTINF:-1 tvg-id="astro Ria" tvg-name="astro Ria" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="马来西亚",astro Ria
 https://stream1.freetv.fun/4d89e248dc3c312e5a8496bd54d9a094ea35e3897a7ee36417fdea51b0c57037.ctv
+
 
 
 
