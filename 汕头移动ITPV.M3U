@@ -253,7 +253,7 @@ http://192.168.50.1:22025/rtp/239.21.0.138:3896
 http://192.168.50.1:22025/rtp/239.21.0.48:3532
 #EXTINF:-1 group-title="地方" tvg-name="河源公共" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/河源公共.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",河源公共
 http://192.168.50.1:22025/rtp/239.21.0.49:3536
-#EXTINF:-1 group-title="地方" tvg-name="梅州综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/梅州综合.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",梅州综合
+#EXTINF:-1 group-title="地方" tvg-name="梅州综合" tvg-logo="https://isus.cc/share/logo/%E8%A7%B8%E9%9B%BB%E6%96%B0%E8%81%9E/%E6%A2%85%E5%B7%9E%E7%BB%BC%E5%90%88.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",梅州综合
 http://192.168.50.1:22025/rtp/239.21.0.149:3940
 #EXTINF:-1 group-title="地方" tvg-name="梅州客家生活" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/梅州客家生活.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",梅州客家生活
 http://192.168.50.1:22025/rtp/239.21.0.150:3944
@@ -379,6 +379,7 @@ https://stream1.freetv.fun/edb46bedad805aa9b93badaaf0f5da9e1acf08a4f42b865653dda
 https://stream1.freetv.fun/4c6aa2cbe15446903a86f38c0dd4473218ee74748367b12f2e5440d43fe5db88.ctv
 #EXTINF:-1 tvg-id="astro Ria" tvg-name="astro Ria" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="马来西亚",astro Ria
 https://stream1.freetv.fun/4d89e248dc3c312e5a8496bd54d9a094ea35e3897a7ee36417fdea51b0c57037.ctv
+
 
 
 
