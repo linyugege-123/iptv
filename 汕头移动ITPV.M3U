@@ -298,7 +298,7 @@ https://stream1.freetv.fun/1efd406f8451d4f1e27e0b34bee7cc3b15ab8ea9f030efe1ba594
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="民视新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/民视新闻台.png" group-title="台湾",民视新闻
 https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bbbf99ea8b3c8.m3u8
 https://stream1.freetv.fun/4355868e59bb494dcb4f81261fa38100173bd6686a364e682007958be4f9c541.ctv
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="民视新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/东森新闻台.png" group-title="台湾",东森新闻
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="民视新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/东森新闻.png" group-title="台湾",东森新闻
 https://stream1.freetv.fun/d1bc8e348ff7e54e4d6df4c0d22d8adf40a42639d6a23921a7b1940024dc39c7.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/翡翠台.png" group-title="港澳",翡翠台
 http://r.jdshipin.com/qClQf
@@ -349,21 +349,21 @@ http://feng163.com:8003/bysid/77
 http://r.jdshipin.com/sFw4S
 #EXTINF:-1 tvg-id="HOY 资讯台" tvg-name="HOY TV" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/HOY资讯台.png" group-title="港澳",HOY 资讯台
 http://feng163.com:8003/bysid/78
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="http://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰卫视中文.png" group-title="港澳",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/凤凰卫视中文.png" group-title="港澳",凤凰中文
 http://r.jdshipin.com/cCCzW
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰卫视中文.png" group-title="港澳",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/凤凰卫视中文.png" group-title="港澳",凤凰资讯
 http://r.jdshipin.com/0Rp07
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰卫视资讯.png" group-title="港澳",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/凤凰卫视资讯.png" group-title="港澳",凤凰资讯
 https://stream1.freetv.fun/513ded31cb8866e23ca79a320f35f9a39db171e7c1b12044e2e0c873b210a5ef.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰卫视资讯.png" group-title="港澳",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/凤凰卫视资讯.png" group-title="港澳",凤凰资讯
 https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.ctv
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="http://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰卫视香港.png" group-title="港澳",凤凰香港
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/凤凰卫视香港.png" group-title="港澳",凤凰香港
 http://r.jdshipin.com/yDoTN
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="http://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰卫视香港.png" group-title="港澳",凤凰香港
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/凤凰卫视香港.png" group-title="港澳",凤凰香港
 http://r.jdshipin.com/NfC0f
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="http://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/澳视澳门.png" group-title="港澳",澳视澳门
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/澳视澳门.png" group-title="港澳",澳视澳门
 http://r.jdshipin.com/n2YZI
-#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="http://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/澳视MACAU.png" group-title="港澳",澳视卫星
+#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/澳视MACAU.png" group-title="港澳",澳视卫星
 http://r.jdshipin.com/QFhCq
 #EXTINF:-1 tvg-id="astro欢喜" tvg-name="astro欢喜" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="马来西亚",astro欢喜
 https://stream1.freetv.fun/85653727e5f1c2fea29f19ac4ab35773d7bc4e510dee12c0629f525bd285a3de.ctv
@@ -379,6 +379,7 @@ https://stream1.freetv.fun/edb46bedad805aa9b93badaaf0f5da9e1acf08a4f42b865653dda
 https://stream1.freetv.fun/4c6aa2cbe15446903a86f38c0dd4473218ee74748367b12f2e5440d43fe5db88.ctv
 #EXTINF:-1 tvg-id="astro Ria" tvg-name="astro Ria" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="马来西亚",astro Ria
 https://stream1.freetv.fun/4d89e248dc3c312e5a8496bd54d9a094ea35e3897a7ee36417fdea51b0c57037.ctv
+
 
 
 
