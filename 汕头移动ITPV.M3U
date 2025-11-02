@@ -25,7 +25,7 @@
 
 #EXTINF:-1 group-title="4K" tvg-name="CCTV4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV4K
 http://192.168.50.1:22025/rtp/239.21.0.123:3836
-#EXTINF:-1 group-title="4K" tvg-name="广东4K超高清" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东4K超高清.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东4K超
+#EXTINF:-1 group-title="4K" tvg-name="广东4K超高清" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东4K超高清.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东4K超高清
 http://192.168.50.1:22025/rtp/239.20.0.60:3160
 #EXTINF:-1 group-title="4K" tvg-name="南国都市4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/南国都市4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",南国都市4K
 http://192.168.50.1:22025/rtp/239.21.0.132:3872
@@ -379,6 +379,7 @@ https://stream1.freetv.fun/edb46bedad805aa9b93badaaf0f5da9e1acf08a4f42b865653dda
 https://stream1.freetv.fun/4c6aa2cbe15446903a86f38c0dd4473218ee74748367b12f2e5440d43fe5db88.ctv
 #EXTINF:-1 tvg-id="astro Ria" tvg-name="astro Ria" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/%E6%BE%B3%E8%A7%86%E5%8D%AB%E6%98%9F.png" group-title="马来西亚",astro Ria
 https://stream1.freetv.fun/4d89e248dc3c312e5a8496bd54d9a094ea35e3897a7ee36417fdea51b0c57037.ctv
+
 
 
 
