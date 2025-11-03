@@ -69,7 +69,7 @@ http://192.168.50.1:22025/rtp/239.20.0.197:2192
 http://192.168.50.1:22025/rtp/239.20.0.28:3292
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-4中文国际" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV4.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV4
 http://192.168.50.1:22025/rtp/239.20.0.16:3340
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-4欧洲" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV4欧洲.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV4欧洲
+#EXTINF:-1 group-title="央视" tvg-name="CCTV4欧洲" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV4欧洲.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV4欧洲
 http://192.168.50.1:22025/rtp/239.21.0.107:3768
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-4美洲" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV4美洲.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV4美洲
 http://192.168.50.1:22025/rtp/239.21.0.108:3772
@@ -382,6 +382,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali
 https://stream1.freetv.fun/16cdb182e347051bb2d7e632d6695cd44c78a80cf14f78ff1c74e961d3563629.ctv
 #EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台 tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/华丽翡翠台.png" group-title="马来西亚",华丽翡翠台
 https://stream1.freetv.fun/2d7e1d7bf66f51a43e9ab227ec9d17d6b55eac503d1585de8657186589bd48f6.ctv
+
 
 
 
