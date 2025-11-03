@@ -265,15 +265,15 @@ http://192.168.50.1:22025/rtp/239.21.0.112:3788
 http://192.168.50.1:22025/rtp/239.21.0.114:3796
 #EXTINF:-1 group-title="外语" tvg-name="CGTN纪录" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN记录.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CGTN纪录
 http://192.168.50.1:22025/rtp/239.21.0.110:3780
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/中天新闻台.png" group-title="台湾",中天新闻
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/中天新闻台.png" group-title="台湾",中天新闻
 rtmp://123.161.179.74/live/yifatv-ztxw01
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/中天新闻台.png" group-title="台湾",中天新闻
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/中天新闻台.png" group-title="台湾",中天新闻
 https://stream1.freetv.fun/d5a6ec037d2c4635d144520d0ddf989faeb6a5f8d5d85e3c5a5c07d2ca2d79b3.m3u8
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/中视新闻台.png" group-title="台湾",中视新闻
+#EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/中视新闻台.png" group-title="台湾",中视新闻
 https://stream1.freetv.fun/1efd406f8451d4f1e27e0b34bee7cc3b15ab8ea9f030efe1ba5940dd5bbbc6be.m3u8
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="民视新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/民视新闻台.png" group-title="台湾",民视新闻
+#EXTINF:-1 tvg-id="中视新闻台" tvg-name="民视新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/民视新闻台.png" group-title="台湾",民视新闻
 https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bbbf99ea8b3c8.m3u8
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="民视新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/民视新闻台.png" group-title="台湾",民视新闻
+#EXTINF:-1 tvg-id="中视新闻台" tvg-name="民视新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/民视新闻台.png" group-title="台湾",民视新闻
 https://stream1.freetv.fun/4355868e59bb494dcb4f81261fa38100173bd6686a364e682007958be4f9c541.ctv
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/东森新闻.png" group-title="台湾",东森新闻
 https://stream1.freetv.fun/d1bc8e348ff7e54e4d6df4c0d22d8adf40a42639d6a23921a7b1940024dc39c7.m3u8
@@ -332,9 +332,9 @@ http://feng163.com:8000/bysid/99
 http://r.jdshipin.com/vSJvl
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="http://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=410274" group-title="港澳",ViuTV
 http://r.jdshipin.com/TcKr2
-#EXTINF:-1 tvg-id="ViuTV6" tvg-name="viutvsix" tvg-logo="http://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV6.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=410273" group-title="港澳",ViuTV6
+#EXTINF:-1 tvg-id="ViuTV6" tvg-name="ViuTV6" tvg-logo="http://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV6.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=410273" group-title="港澳",ViuTV6
 https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a8bc405771fb.ctv
-#EXTINF:-1 tvg-id="ViuTV6" tvg-name="viutvsix" tvg-logo="http://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV6.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=410273" group-title="港澳",ViuTV6
+#EXTINF:-1 tvg-id="ViuTV6" tvg-name="ViuTV6" tvg-logo="http://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV6.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=410273" group-title="港澳",ViuTV6
 https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32f33ffbb019c1171ac507.ctv
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/HOY1.png" group-title="港澳",HOY TV
 http://feng163.com:8003/bysid/77
@@ -368,6 +368,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali
 https://stream1.freetv.fun/16cdb182e347051bb2d7e632d6695cd44c78a80cf14f78ff1c74e961d3563629.ctv
 #EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台 tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/华丽翡翠台.png" group-title="马来西亚",华丽翡翠台
 https://stream1.freetv.fun/2d7e1d7bf66f51a43e9ab227ec9d17d6b55eac503d1585de8657186589bd48f6.ctv
+
 
 
 
