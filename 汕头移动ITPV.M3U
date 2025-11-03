@@ -331,19 +331,19 @@ http://r.jdshipin.com/CkuBd
 https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.ctv
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/无线新闻台.png" group-title="港澳",无线新闻
 https://stream1.freetv.fun/ac251cfa2842fa2be9c70e0f852ca810ccfcaada7d0c4a67c41b1b9dd2621412.ctv
-#EXTINF:-1 tvg-name="港台电视31" tvg-logo="https://live.fanmingming.cn/tv/RTHK31.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368550" group-title="港澳",港台电视31
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/RTHK31.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368550" group-title="港澳",港台电视31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 tvg-name="港台电视32" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368551' group-title="港澳",港台电视32
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/RTHK32.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368551' group-title="港澳",港台电视32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-name="港台电视32" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368551' group-title="港澳",港台电视32
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/RTHK32.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368551' group-title="港澳",港台电视32
 https://stream1.freetv.fun/4e2f5ecdf24236f647b765089947b507cb0191011759d44788ee936dd194add6.ctv
-#EXTINF:-1 tvg-name="港台电视32" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368551' group-title="港澳",港台电视32
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/RTHK32.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368551' group-title="港澳",港台电视32
 https://stream1.freetv.fun/09198558588b0ddc38320cd36f07c5708c1a2af1e694c43694d3865e3dc22c45.ctv
-#EXTINF:-1 tvg-name="港台电视33" tvg-logo="https://gitee.com/china-nt11/iptv_live/raw/master/image/RTHK33.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368552" group-title="RTHK",港台电视33
+#EXTINF:-1 tvg-name="RTHK33" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/RTHK33.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368552" group-title="RTHK",港台电视33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8?$1080P
-#EXTINF:-1 tvg-name="港台电视34" tvg-logo="https://gitee.com/china-nt11/iptv_live/raw/master/image/RTHK34.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368553" group-title="RTHK",港台电视34
+#EXTINF:-1 tvg-name="RTHK34" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/RTHK34.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368553" group-title="RTHK",港台电视34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream03/streamPlaylist.m3u8?$1080P
-#EXTINF:-1 tvg-name="港台电视35" tvg-logo="https://live.fanmingming.cn/tv/RTHK35.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368554" group-title="RTHK",港台电视35
+#EXTINF:-1 tvg-name="RTHK35" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/RTHK35.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368554" group-title="RTHK",港台电视35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream03/streamPlaylist.m3u8?$1080P
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/TVB星河.png" group-title="港澳",TVB星河
 http://r.jdshipin.com/sXuuD
@@ -391,6 +391,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali
 https://stream1.freetv.fun/16cdb182e347051bb2d7e632d6695cd44c78a80cf14f78ff1c74e961d3563629.ctv
 #EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台 tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/华丽翡翠台.png" group-title="马来西亚",华丽翡翠台
 https://stream1.freetv.fun/2d7e1d7bf66f51a43e9ab227ec9d17d6b55eac503d1585de8657186589bd48f6.ctv
+
 
 
 
