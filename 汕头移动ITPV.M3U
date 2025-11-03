@@ -318,11 +318,11 @@ http://feng163.com:8001/bysid/3
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/明珠台.png" group-title="港澳",明珠台
 http://r.jdshipin.com/jUx8K
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/TVBPLUS.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368361" group-title="港澳",TVB Plus
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/TVBPLUS.png" epg-url="https://epg.pw/api/epg.xml?channel_id=368361" group-title="港澳",TVB Plus
 http://feng163.com:8001/bysid/82
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/TVBPLUS.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368361" group-title="港澳",TVB Plus
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/TVBPLUS.png" epg-url="https://epg.pw/api/epg.xml?channel_id=368361" group-title="港澳",TVB Plus
 http://r.jdshipin.com/Nr5jq
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/TVBPLUS.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368361" group-title="港澳",TVB Plus
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/TVBPLUS.png" epg-url="https://epg.pw/api/epg.xml?channel_id=368361" group-title="港澳",TVB Plus
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/无线新闻台.png" group-title="港澳",无线新闻
 http://feng163.com:8001/bysid/83
@@ -391,6 +391,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali
 https://stream1.freetv.fun/16cdb182e347051bb2d7e632d6695cd44c78a80cf14f78ff1c74e961d3563629.ctv
 #EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台 tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/华丽翡翠台.png" group-title="马来西亚",华丽翡翠台
 https://stream1.freetv.fun/2d7e1d7bf66f51a43e9ab227ec9d17d6b55eac503d1585de8657186589bd48f6.ctv
+
 
 
 
