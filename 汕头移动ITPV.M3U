@@ -224,7 +224,7 @@ http://192.168.50.1:22025/rtp/239.21.0.163:4000
 http://192.168.50.1:22025/rtp/239.21.0.164:4004
 #EXTINF:-1 group-title="卫视" tvg-name="宁夏卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/宁夏卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",宁夏卫视
 http://192.168.50.1:22025/rtp/239.21.0.165:4008
-#EXTINF:-1 group-title="地方" tvg-name="汕头综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/汕头新闻综合.png" epg-url="epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=458035",汕头综合
+#EXTINF:-1 group-title="地方" tvg-name="汕头综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/汕头新闻综合.png" epg-url="epg-url="https://epg.112114.xyz/pp.xml",汕头综合
 http://192.168.50.1:22025/rtp/239.21.0.101:3744
 #EXTINF:-1 group-title="地方" tvg-name="汕头经济生活" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/汕头经济生活.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",汕头经济生活
 http://192.168.50.1:22025/rtp/239.21.0.102:3748
@@ -391,6 +391,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali
 https://stream1.freetv.fun/16cdb182e347051bb2d7e632d6695cd44c78a80cf14f78ff1c74e961d3563629.ctv
 #EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台 tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/华丽翡翠台.png" group-title="马来西亚",华丽翡翠台
 https://stream1.freetv.fun/2d7e1d7bf66f51a43e9ab227ec9d17d6b55eac503d1585de8657186589bd48f6.ctv
+
 
 
 
