@@ -355,12 +355,13 @@ http://r.jdshipin.com/QFhCq
 http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 tvg-id="astro欢喜" tvg-name="astro欢喜" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/Astro欢喜台.png" group-title="马来西亚",astro欢喜
 https://stream1.freetv.fun/85653727e5f1c2fea29f19ac4ab35773d7bc4e510dee12c0629f525bd285a3de.ctv
-#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台 tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/华丽翡翠台.png" group-title="马来西亚",华丽翡翠台
+#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/华丽翡翠台.png" group-title="马来西亚",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台 tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/华丽翡翠台.png" group-title="马来西亚",华丽翡翠台
+#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/华丽翡翠台.png" group-title="马来西亚",华丽翡翠台
 https://stream1.freetv.fun/16cdb182e347051bb2d7e632d6695cd44c78a80cf14f78ff1c74e961d3563629.ctv
-#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台 tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/华丽翡翠台.png" group-title="马来西亚",华丽翡翠台
+#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/华丽翡翠台.png" group-title="马来西亚",华丽翡翠台
 https://stream1.freetv.fun/2d7e1d7bf66f51a43e9ab227ec9d17d6b55eac503d1585de8657186589bd48f6.ctv
+
 
 
 
