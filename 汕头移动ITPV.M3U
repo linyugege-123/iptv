@@ -317,6 +317,10 @@ https://stream1.freetv.fun/4355868e59bb494dcb4f81261fa38100173bd6686a364e6820079
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/东森新闻.png" group-title="台湾",东森新闻
 https://stream1.freetv.fun/d1bc8e348ff7e54e4d6df4c0d22d8adf40a42639d6a23921a7b1940024dc39c7.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/翡翠台.png" group-title="港澳",翡翠台
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/翡翠台.png" group-title="港澳",翡翠台
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/翡翠台.png" group-title="港澳",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/翡翠台.png" group-title="港澳",翡翠台
 http://feng163.com:8000/bysid/1
@@ -420,6 +424,9 @@ http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-id="鬥魚邵氏影院" tvg-name="鬥魚邵氏影院" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/鬥魚邵氏影院.png" group-title="电影",鬥魚邵氏影院
 http://lxajh.top/tv/douyu.php?id=4246519
+#EXTINF:-1 tvg-id="亚洲武侠" tvg-name="亚洲武侠" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/武侠剧场.png" group-title="电影",亚洲武侠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
 
 
 
