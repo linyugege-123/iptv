@@ -212,11 +212,9 @@ http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab47
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广州新闻.png" group-title="地方",广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
-#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广州竞赛.png" group-title="深广",广州竞赛
-https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
-#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广州法治.png" group-title="深广",广州法治
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广州法治.png" group-title="地方",广州法治
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
-#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广州法治.png" group-title="深广",广州法治
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广州法治.png" group-title="地方",广州法治
 http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 #EXTINF:-1 group-title="地方" tvg-name="汕头综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/汕头新闻综合.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",汕头综合
 http://192.168.50.1:22025/rtp/239.21.0.101:3744
@@ -426,6 +424,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 http://lxajh.top/tv/douyu.php?id=4246519
 #EXTINF:-1 tvg-id="亚洲武侠" tvg-name="亚洲武侠" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/武侠剧场.png" group-title="电影",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
 
 
 
