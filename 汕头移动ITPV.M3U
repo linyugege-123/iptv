@@ -5,6 +5,8 @@ http://192.168.50.1:22025/rtp/239.21.0.123:3836
 http://192.168.50.1:22025/rtp/239.20.0.60:3160
 #EXTINF:-1 group-title="4K" tvg-name="南国都市4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/南国都市4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",南国都市4K
 http://192.168.50.1:22025/rtp/239.21.0.132:3872
+#EXTINF:-1 group-title="4K" tvg-name="南国都市4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/南国都市4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",南国都市4K
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 group-title="4K" tvg-name="北京卫视4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/北京卫视4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",北京卫视
 http://192.168.50.1:22025/rtp/239.21.0.157:3972
 #EXTINF:-1 group-title="4K" tvg-name="北京卫视4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/北京卫视4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",北京卫视
@@ -201,6 +203,21 @@ http://192.168.50.1:22025/rtp/239.21.0.163:4000
 http://192.168.50.1:22025/rtp/239.21.0.164:4004
 #EXTINF:-1 group-title="卫视" tvg-name="宁夏卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/宁夏卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",宁夏卫视
 http://192.168.50.1:22025/rtp/239.21.0.165:4008
+#EXTM3U x-tvg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml"
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广州综合.png" group-title="地方",广州综合
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广州综合.png" group-title="地方",广州综合
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广州新闻.png" group-title="地方",广州新闻
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广州新闻.png" group-title="地方",广州新闻
+http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广州竞赛.png" group-title="深广",广州竞赛
+https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广州法治.png" group-title="深广",广州法治
+https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广州法治.png" group-title="深广",广州法治
+http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 #EXTINF:-1 group-title="地方" tvg-name="汕头综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/汕头新闻综合.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",汕头综合
 http://192.168.50.1:22025/rtp/239.21.0.101:3744
 #EXTINF:-1 group-title="地方" tvg-name="汕头经济生活" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/汕头经济生活.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",汕头经济生活
@@ -233,6 +250,28 @@ http://192.168.50.1:22025/rtp/239.21.0.49:3536
 http://192.168.50.1:22025/rtp/239.21.0.149:3940
 #EXTINF:-1 group-title="地方" tvg-name="梅州客家生活" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/梅州客家生活.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",梅州客家生活
 http://192.168.50.1:22025/rtp/239.21.0.150:3944
+#EXTINF:-1 tvg-id="五华综合" tvg-name="五华综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/五华综合.png" group-title="地方",五华综合
+http://pull-hsbj.vzan.com/v/slowlive_621139761151691240.flv
+#EXTINF:-1 tvg-id="五华综合" tvg-name="五华综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/五华综合.png" group-title="地方",五华综合
+http://p2hs.vzan.com/slowlive/621139761151691240/live.m3u8
+#EXTINF:-1 tvg-id="肇庆综合" tvg-name="肇庆综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/肇庆综合.png" group-title="地方",肇庆综合
+http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8
+#EXTINF:-1 tvg-id="肇庆生活服务" tvg-name="肇庆生活服务" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/肇庆生活服务.png" group-title="地方",肇庆生活服务
+http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8
+#EXTINF:-1 tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/云浮综合.png" group-title="地方",云浮综合
+https://livestream.oeeee.com/slive/28283.m3u8
+#EXTINF:-1 tvg-id="云浮文旅" tvg-name="云浮文旅" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/云浮文旅.png" group-title="地方",云浮文旅
+https://livestream.oeeee.com/slive/28284.m3u8
+#EXTINF:-1 tvg-id="阳江综合" tvg-name="阳江综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/阳江综合.png" group-title="地方",阳江综合
+https://live.yjtvw.com:8081/live/yjtv1.m3u8
+#EXTINF:-1 tvg-id="阳江生活" tvg-name="阳江生活" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/阳江生活.png" group-title="地方",阳江生活
+https://live.yjtvw.com:8081/live/yjtv2.m3u8
+#EXTINF:-1 tvg-id="清远综合" tvg-name="清远综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/清远综合.png" group-title="地方",清远综合
+http://zmylivestream.nfnews.com/zmy_slive/25319.m3u8
+#EXTINF:-1 tvg-id="清远综合" tvg-name="清远综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/清远综合.png" group-title="地方",清远综合
+https://zmylivestream.nfnews.com/zmy_slive/25319.m3u8
+#EXTINF:-1 tvg-id="清远公共" tvg-name="清远公共" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/清远公共.png" group-title="地方",清远公共
+https://zmylivestream.nfnews.com/zmy_slive/25321.m3u8
 #EXTINF:-1 group-title="教育" tvg-name="CETV-1" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CETV1.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CETV-1
 http://192.168.50.1:22025/rtp/239.20.0.213:2224
 #EXTINF:-1 group-title="教育" tvg-name="CETV-4" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CETV4.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CETV-4
@@ -309,6 +348,8 @@ http://r.jdshipin.com/CkuBd
 https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.ctv
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/无线新闻台.png" group-title="港澳",无线新闻
 https://stream1.freetv.fun/ac251cfa2842fa2be9c70e0f852ca810ccfcaada7d0c4a67c41b1b9dd2621412.ctv
+#EXTINF:-1 tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/TVB娱乐新闻台.png" group-title="港澳",TVB娱乐新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/RTHK31.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368550" group-title="港澳",RTHK31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/RTHK32.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=368551' group-title="港澳",RTHK32
@@ -361,6 +402,24 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali
 https://stream1.freetv.fun/16cdb182e347051bb2d7e632d6695cd44c78a80cf14f78ff1c74e961d3563629.ctv
 #EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/华丽翡翠台.png" group-title="马来西亚",华丽翡翠台
 https://stream1.freetv.fun/2d7e1d7bf66f51a43e9ab227ec9d17d6b55eac503d1585de8657186589bd48f6.ctv
+#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/华丽翡翠台.png" group-title="马来西亚",华丽翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/Astro AOD.png" group-title="马来西亚",Astro AOD
+http://php.jdshipin.com/TVOD/iptv.php?id=aod
+#EXTINF:-1 tvg-id="Astro爱奇艺" tvg-name="Astro爱奇艺" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/Astro IQIYI.png.png" group-title="马来西亚",Astro爱奇艺
+http://php.jdshipin.com/smt.php?id=Qiyi
+#EXTINF:-1 tvg-id="动作电影台" tvg-name="动作电影台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/动作电影台.png" group-title="电影",动作电影台
+http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
+#EXTINF:-1 tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/家庭影院.png" group-title="电影",家庭影院
+http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
+#EXTINF:-1 tvg-id="影迷电影" tvg-name="影迷电影" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/影迷电影.png" group-title="电影",影迷电影
+http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
+#EXTINF:-1 tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/凤凰电影.png" group-title="电影",凤凰电影
+http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/美亚电影.png" group-title="电影",美亚电影
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 tvg-id="鬥魚邵氏影院" tvg-name="鬥魚邵氏影院" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/鬥魚邵氏影院.png" group-title="电影",鬥魚邵氏影院
+http://lxajh.top/tv/douyu.php?id=4246519
 
 
 
