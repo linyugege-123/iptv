@@ -313,9 +313,9 @@ http://192.168.50.1:22025/rtp/239.21.0.114:3796
 #EXTINF:-1 group-title="外语" tvg-name="CGTN纪录" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN记录.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CGTN纪录
 http://192.168.50.1:22025/rtp/239.21.0.110:3780
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/中天新闻台.png" group-title="台湾",中天新闻
-rtmp://123.161.179.74/live/yifatv-ztxw01
+http://cnlive.org/channel/41d8a09d/index.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/中天新闻台.png" group-title="台湾",中天新闻
-https://stream1.freetv.fun/d5a6ec037d2c4635d144520d0ddf989faeb6a5f8d5d85e3c5a5c07d2ca2d79b3.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/中视新闻台.png" group-title="台湾",中视新闻
 https://stream1.freetv.fun/1efd406f8451d4f1e27e0b34bee7cc3b15ab8ea9f030efe1ba5940dd5bbbc6be.m3u8
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="民视新闻台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/民视新闻台.png" group-title="台湾",民视新闻
@@ -466,6 +466,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-id="天映频道" tvg-name="美亚电影" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/天映频道.png" group-title="电影",天映频道
 http://php.jdshipin.com/smt.php?id=Celestial2
+
 
 
 
