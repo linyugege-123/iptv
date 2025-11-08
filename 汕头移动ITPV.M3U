@@ -391,6 +391,7 @@ http://r.jdshipin.com/Voac4
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/千禧经典台.png" group-title="港澳",千禧经典台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="http://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=410274" group-title="港澳",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 http://feng163.com:8000/bysid/99
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="http://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV.png" epg-url="https://epg.pw/api/epg.xml?lang=zh-hant&channel_id=410274" group-title="港澳",ViuTV
 http://r.jdshipin.com/vSJvl
@@ -448,6 +449,8 @@ https://stream1.freetv.fun/2d7e1d7bf66f51a43e9ab227ec9d17d6b55eac503d1585de86571
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/Astro AOD.png" group-title="马来西亚",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
+#EXTINF:-1 tvg-id="Astro 全佳" tvg-name="Astro AOD" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/ASTROQUANJIA.png" group-title="马来西亚",Astro 全佳
+http://php.jdshipin.com/smt.php?id=Quanjia
 #EXTINF:-1 tvg-id="Astro爱奇艺" tvg-name="Astro爱奇艺" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/Astro IQIYI.png.png" group-title="马来西亚",Astro爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1 tvg-id="动作电影台" tvg-name="动作电影台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/动作电影台.png" group-title="电影",动作电影台
@@ -466,6 +469,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-id="天映频道" tvg-name="美亚电影" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/天映频道.png" group-title="电影",天映频道
 http://php.jdshipin.com/smt.php?id=Celestial2
+
 
 
 
