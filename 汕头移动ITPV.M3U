@@ -1,36 +1,36 @@
 #EXTM3U x-tvg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml"
 #EXTINF:-1 group-title="4K" tvg-name="CCTV4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV4K
-rtp://239.21.0.123:3836
+http://192.168.50.1:22025/rtp/239.21.0.123:3836
 #EXTINF:-1 group-title="4K" tvg-name="广东4K超高清" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东4K超高清.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东4K超高清
-rtp://239.20.0.60:3160
+http://192.168.50.1:22025/rtp/239.20.0.60:3160
 #EXTINF:-1 group-title="4K" tvg-name="南国都市4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/南国都市4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",南国都市4K
-rtp://239.21.0.132:3872
+http://192.168.50.1:22025/rtp/239.21.0.132:3872
 #EXTINF:-1 group-title="4K" tvg-name="南国都市4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/南国都市4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",南国都市4K
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 group-title="4K" tvg-name="北京卫视4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/北京卫视4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",北京卫视
-rtp://239.21.0.157:3972
+http://192.168.50.1:22025/rtp/239.21.0.157:3972
 #EXTINF:-1 group-title="4K" tvg-name="北京卫视4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/北京卫视4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",北京卫视
-rtp://239.21.0.158:3976
+http://192.168.50.1:22025/rtp/239.21.0.158:3976
 #EXTINF:-1 group-title="4K" tvg-name="广东卫视4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东卫视4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东卫视
-rtp://239.21.0.159:3980
+http://192.168.50.1:22025/rtp/239.21.0.159:3980
 #EXTINF:-1 group-title="4K" tvg-name="广东卫视4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东卫视4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东卫视
-rtp://239.21.0.160:3988
+http://192.168.50.1:22025/rtp/239.21.0.160:3988
 #EXTINF:-1 group-title="4K" tvg-name="深圳卫视4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/深圳卫视4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",深圳卫视
-rtp://239.21.0.161:3992
+http://192.168.50.1:22025/rtp/239.21.0.161:3992
 #EXTINF:-1 group-title="4K" tvg-name="湖南卫视4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/湖南卫视4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",湖南卫视
-rtp://239.21.0.166:4012
+http://192.168.50.1:22025/rtp/239.21.0.166:4012
 #EXTINF:-1 group-title="4K" tvg-name="江苏卫视4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/江苏卫视4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",江苏卫视
-rtp://239.21.0.167:4016
+http://192.168.50.1:22025/rtp/239.21.0.167:4016
 #EXTINF:-1 group-title="4K" tvg-name="浙江卫视4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/浙江卫视4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",浙江卫视
-rtp://239.21.0.168:4020
+http://192.168.50.1:22025/rtp/239.21.0.168:4020
 #EXTINF:-1 group-title="4K" tvg-name="东方卫视4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/东方卫视4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",东方卫视
-rtp://239.21.0.169:4024
+http://192.168.50.1:22025/rtp/239.21.0.169:4024
 #EXTINF:-1 group-title="4K" tvg-name="四川卫视4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/四川卫视4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",四川卫视
-rtp://239.21.0.170:4028
+http://192.168.50.1:22025/rtp/239.21.0.170:4028
 #EXTINF:-1 group-title="4K" tvg-name="山东卫视4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/山东卫视4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",山东卫视
-rtp://239.21.0.171:4032
+http://192.168.50.1:22025/rtp/239.21.0.171:4032
 #EXTINF:-1 group-title="4K" tvg-name="咪咕4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/咪咕4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",咪咕4K
-rtp://239.20.0.66:3136
+http://192.168.50.1:22025/rtp/239.20.0.66:3136
 #EXTINF:-1 group-title="4K" tvg-name="咪咕4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/咪咕4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",咪咕4K
 http://r.jdshipin.com/ln4xk
 #EXTINF:-1 group-title="4K" tvg-name="至臻视界" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/至臻视界.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",至臻视界
@@ -40,175 +40,175 @@ https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="4K" tvg-name="河北卫视4K" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/河北卫视4K.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",河北卫视4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-1综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV1.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV1
-rtp://239.20.0.104:2006
+http://192.168.50.1:22025/rtp/239.20.0.104:2006
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-1综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV1.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV1
-rtp://239.20.0.96:3016
+http://192.168.50.1:22025/rtp/239.20.0.96:3016
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-1综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV1.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV1
-rtp://239.20.0.32:3276
+http://192.168.50.1:22025/rtp/239.20.0.32:3276
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-2财经" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV2.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV2
-rtp://239.20.0.197:2192
+http://192.168.50.1:22025/rtp/239.20.0.197:2192
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-3综艺" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV3.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV3
-rtp://239.20.0.28:3292
+http://192.168.50.1:22025/rtp/239.20.0.28:3292
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-4中文国际" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV4.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV4
-rtp://239.20.0.16:3340
+http://192.168.50.1:22025/rtp/239.20.0.16:3340
 #EXTINF:-1 group-title="央视" tvg-name="CCTV4欧洲" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV4欧洲.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV4欧洲
-rtp://239.21.0.107:3768
+http://192.168.50.1:22025/rtp/239.21.0.107:3768
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-4美洲" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV4美洲.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV4美洲
-rtp://239.21.0.108:3772
+http://192.168.50.1:22025/rtp/239.21.0.108:3772
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-5体育" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV5.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV5
-rtp://239.20.0.30:3284
+http://192.168.50.1:22025/rtp/239.20.0.30:3284
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-5+体育赛事" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV5+.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV5+
-rtp://239.20.0.203:2204
+http://192.168.50.1:22025/rtp/239.20.0.203:2204
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-6电影" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV6.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV6
-rtp://239.20.0.29:3288
+http://192.168.50.1:22025/rtp/239.20.0.29:3288
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-7军事农业" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV7.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV7
-rtp://239.20.0.198:2194
+http://192.168.50.1:22025/rtp/239.20.0.198:2194
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-8电视剧" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV8.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV8
-rtp://239.20.0.31:3280
+http://192.168.50.1:22025/rtp/239.20.0.31:3280
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-9纪录" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV9.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV9
-rtp://239.20.0.199:2196
+http://192.168.50.1:22025/rtp/239.20.0.199:2196
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-10科教" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV10.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV10
-rtp://239.20.0.200:2198
+http://192.168.50.1:22025/rtp/239.20.0.200:2198
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-11戏曲" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV11.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV11
-rtp://239.21.0.35:3480
+http://192.168.50.1:22025/rtp/239.21.0.35:3480
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-12社会与法" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV12.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV12
-rtp://239.20.0.201:2200
+http://192.168.50.1:22025/rtp/239.20.0.201:2200
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-13新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV13.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV13
-rtp://239.21.0.88:3692
+http://192.168.50.1:22025/rtp/239.21.0.88:3692
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-14少儿" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV14.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV14
-rtp://239.20.0.202:2202
+http://192.168.50.1:22025/rtp/239.20.0.202:2202
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-15音乐" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV15.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV15
-rtp://239.21.0.36:3484
+http://192.168.50.1:22025/rtp/239.21.0.36:3484
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-16奥林匹克" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV16.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV16
-rtp://239.21.0.116:3808
+http://192.168.50.1:22025/rtp/239.21.0.116:3808
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-17农村农业" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CCTV17.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CCTV17
-rtp://239.20.0.7:3376
+http://192.168.50.1:22025/rtp/239.20.0.7:3376
 #EXTINF:-1 group-title="央视" tvg-name="央视台球" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/央视台球.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",央视台球
-rtp://239.21.0.71:3624
+http://192.168.50.1:22025/rtp/239.21.0.71:3624
 #EXTINF:-1 group-title="央视" tvg-name="高尔夫网球" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/高尔夫网球.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",高尔夫网球
-rtp://239.21.0.72:3628
+http://192.168.50.1:22025/rtp/239.21.0.72:3628
 #EXTINF:-1 group-title="央视" tvg-name="央视精品" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/央视精品.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",央视精品
-rtp://239.21.0.77:3648
+http://192.168.50.1:22025/rtp/239.21.0.77:3648
 #EXTINF:-1 group-title="央视" tvg-name="兵器科技" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/兵器科技.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",兵器科技
-rtp://239.21.0.80:3660
+http://192.168.50.1:22025/rtp/239.21.0.80:3660
 #EXTINF:-1 group-title="央视" tvg-name="电视指南" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/电视指南.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",电视指南
-rtp://239.21.0.81:3664
+http://192.168.50.1:22025/rtp/239.21.0.81:3664
 #EXTINF:-1 group-title="央视" tvg-name=CCTV第一剧场" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/第一剧场.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",第一剧场
-rtp://239.21.0.78:3652
+http://192.168.50.1:22025/rtp/239.21.0.78:3652
 #EXTINF:-1 group-title="央视" tvg-name="怀旧剧场" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/怀旧剧场.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",怀旧剧场
-rtp://239.21.0.75:3640
+http://192.168.50.1:22025/rtp/239.21.0.75:3640
 #EXTINF:-1 group-title="央视" tvg-name="风云剧场" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/风云剧场.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",风云剧场
-rtp://239.21.0.76:3644
+http://192.168.50.1:22025/rtp/239.21.0.76:3644
 #EXTINF:-1 group-title="央视" tvg-name="风云音乐" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/风云音乐.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",风云音乐
-rtp://239.21.0.79:3656
+http://192.168.50.1:22025/rtp/239.21.0.79:3656
 #EXTINF:-1 group-title="央视" tvg-name="风云足球" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/风云足球.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",风云足球
-rtp://239.21.0.70:3620
+http://192.168.50.1:22025/rtp/239.21.0.70:3620
 #EXTINF:-1 group-title="央视" tvg-name="女性时尚" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/女性时尚.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",女性时尚
-rtp://239.21.0.73:3632
+http://192.168.50.1:22025/rtp/239.21.0.73:3632
 #EXTINF:-1 group-title="央视" tvg-name="世界地理" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/世界地理.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",世界地理
-rtp://239.21.0.74:3636
+http://192.168.50.1:22025/rtp/239.21.0.74:3636
 #EXTINF:-1 group-title="广东" tvg-name="广东卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东卫视
-rtp://239.20.0.101:2000
+http://192.168.50.1:22025/rtp/239.20.0.101:2000
 #EXTINF:-1 group-title="广东" tvg-name="广东卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东卫视
-rtp://239.20.0.99:3004
+http://192.168.50.1:22025/rtp/239.20.0.99:3004
 #EXTINF:-1 group-title="广东" tvg-name="广东民生" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东民生.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东民生
-rtp://239.21.0.86:3684
+http://192.168.50.1:22025/rtp/239.21.0.86:3684
 #EXTINF:-1 group-title="广东" tvg-name="广东体育" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东体育.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东体育
-rtp://239.20.0.103:2004
+http://192.168.50.1:22025/rtp/239.20.0.103:2004
 #EXTINF:-1 group-title="广东" tvg-name="广东新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东新闻.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东新闻
-rtp://239.21.0.93:3712
+http://192.168.50.1:22025/rtp/239.21.0.93:3712
 #EXTINF:-1 group-title="广东" tvg-name="广东珠江" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东珠江.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东珠江
-rtp://239.20.0.64:3144
+http://192.168.50.1:22025/rtp/239.20.0.64:3144
 #EXTINF:-1 group-title="广东" tvg-name="广东珠江" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东珠江.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东珠江
-rtp://239.20.0.63:3148
+http://192.168.50.1:22025/rtp/239.20.0.63:3148
 #EXTINF:-1 group-title="广东" tvg-name="广东经济科教" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东经济科教.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东经济科教
-rtp://239.20.0.102:2002
+http://192.168.50.1:22025/rtp/239.20.0.102:2002
 #EXTINF:-1 group-title="广东" tvg-name="广东经济科教" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东经济科教.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东经济科教
-rtp://239.20.0.98:3008
+http://192.168.50.1:22025/rtp/239.20.0.98:3008
 #EXTINF:-1 group-title="广东" tvg-name="广东经济科教" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东经济科教.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东经济科教
-rtp://239.20.0.191:2180
+http://192.168.50.1:22025/rtp/239.20.0.191:2180
 #EXTINF:-1 group-title="广东" tvg-name="广东影视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东影视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东影视
-rtp://239.21.0.85:3680
+http://192.168.50.1:22025/rtp/239.21.0.85:3680
 #EXTINF:-1 group-title="广东" tvg-name="广东少儿" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广东少儿.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广东少儿
-rtp://239.21.0.87:3688
+http://192.168.50.1:22025/rtp/239.21.0.87:3688
 #EXTINF:-1 group-title="广东" tvg-name="岭南戏曲" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/岭南戏曲.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",岭南戏曲
-rtp://239.21.0.147:3932
+http://192.168.50.1:22025/rtp/239.21.0.147:3932
 #EXTINF:-1 group-title="广东" tvg-name="大湾区卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/大湾区卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",大湾区卫视
-rtp://239.21.0.84:3676
+http://192.168.50.1:22025/rtp/239.21.0.84:3676
 #EXTINF:-1 group-title="广东" tvg-name="大湾区卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/大湾区卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",大湾区卫视
-rtp://239.20.0.125:2048
+http://192.168.50.1:22025/rtp/239.20.0.125:2048
 #EXTINF:-1 group-title="卫视" tvg-name="海峡卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/海峡卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",海峡卫视
 http://r.jdshipin.com/WtYt3
 #EXTINF:-1 group-title="卫视" tvg-name="东方卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/东方卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",东方卫视
-rtp://239.20.0.173:2144
+http://192.168.50.1:22025/rtp/239.20.0.173:2144
 #EXTINF:-1 group-title="卫视" tvg-name="湖南卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/湖南卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",湖南卫视
-rtp://239.20.0.105:2008
+http://192.168.50.1:22025/rtp/239.20.0.105:2008
 #EXTINF:-1 group-title="卫视" tvg-name="湖南卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/湖南卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",湖南卫视
-rtp://239.20.0.95:3020
+http://192.168.50.1:22025/rtp/239.20.0.95:3020
 #EXTINF:-1 group-title="卫视" tvg-name="湖北卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/湖北卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",湖北卫视
-rtp://239.20.0.124:2046
+http://192.168.50.1:22025/rtp/239.20.0.124:2046
 #EXTINF:-1 group-title="卫视" tvg-name="湖北卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/湖北卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",湖北卫视
-rtp://239.20.0.90:3040
+http://192.168.50.1:22025/rtp/239.20.0.90:3040
 #EXTINF:-1 group-title="卫视" tvg-name="安徽卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/安徽卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",安徽卫视
-rtp://239.20.0.193:2184
+http://192.168.50.1:22025/rtp/239.20.0.193:2184
 #EXTINF:-1 group-title="卫视" tvg-name="浙江卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/浙江卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",浙江卫视
-rtp://239.20.0.169:2136
+http://192.168.50.1:22025/rtp/239.20.0.169:2136
 #EXTINF:-1 group-title="卫视" tvg-name="江苏卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/江苏卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",江苏卫视
-rtp://239.20.0.170:2138
+http://192.168.50.1:22025/rtp/239.20.0.170:2138
 #EXTINF:-1 group-title="卫视" tvg-name="江西卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/江西卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",江西卫视
-rtp://239.20.0.55:3180
+http://192.168.50.1:22025/rtp/239.20.0.55:3180
 #EXTINF:-1 group-title="卫视" tvg-name="海南卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/海南卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",海南卫视
-rtp://239.21.0.134:3880
+http://192.168.50.1:22025/rtp/239.21.0.134:3880
 #EXTINF:-1 group-title="卫视" tvg-name="广西卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广西卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",广西卫视
-rtp://239.20.0.15:3344
+http://192.168.50.1:22025/rtp/239.20.0.15:3344
 #EXTINF:-1 group-title="卫视" tvg-name="东南卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/东南卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",东南卫视
-rtp://239.20.0.58:3168
+http://192.168.50.1:22025/rtp/239.20.0.58:3168
 #EXTINF:-1 group-title="卫视" tvg-name="三沙卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/三沙卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",三沙卫视
-rtp://239.21.0.143:3916
+http://192.168.50.1:22025/rtp/239.21.0.143:3916
 #EXTINF:-1 group-title="卫视" tvg-name="深圳卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/深圳卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",深圳卫视
-rtp://239.20.0.122:2042
+http://192.168.50.1:22025/rtp/239.20.0.122:2042
 #EXTINF:-1 group-title="卫视" tvg-name="深圳卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/深圳卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",深圳卫视
-rtp://239.20.0.92:3032
+http://192.168.50.1:22025/rtp/239.20.0.92:3032
 #EXTINF:-1 group-title="卫视" tvg-name="辽宁卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/辽宁卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",辽宁卫视
-rtp://239.20.0.175:2148
+http://192.168.50.1:22025/rtp/239.20.0.175:2148
 #EXTINF:-1 group-title="卫视" tvg-name="黑龙江卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/黑龙江卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",黑龙江卫视
-rtp://239.20.0.91:3036
+http://192.168.50.1:22025/rtp/239.20.0.91:3036
 #EXTINF:-1 group-title="卫视" tvg-name="黑龙江卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/黑龙江卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",黑龙江卫视
-rtp://239.20.0.123:2044
+http://192.168.50.1:22025/rtp/239.20.0.123:2044
 #EXTINF:-1 group-title="卫视" tvg-name="吉林卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/吉林卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",吉林卫视
-rtp://239.20.0.54:3184
+http://192.168.50.1:22025/rtp/239.20.0.54:3184
 #EXTINF:-1 group-title="卫视" tvg-name="山东卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/山东卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",山东卫视
-rtp://239.20.0.172:2142
+http://192.168.50.1:22025/rtp/239.20.0.172:2142
 #EXTINF:-1 group-title="卫视" tvg-name="河南卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/河南卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",河南卫视
-rtp://239.21.0.104:3756
+http://192.168.50.1:22025/rtp/239.21.0.104:3756
 #EXTINF:-1 group-title="卫视" tvg-name="河北卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/河北卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",河北卫视
-rtp://239.20.0.56:3176
+http://192.168.50.1:22025/rtp/239.20.0.56:3176
 #EXTINF:-1 group-title="卫视" tvg-name="天津卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/天津卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",天津卫视
-rtp://239.20.0.171:2140
+http://192.168.50.1:22025/rtp/239.20.0.171:2140
 #EXTINF:-1 group-title="卫视" tvg-name="天津卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/天津卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",天津卫视
-rtp://239.20.0.89:3044
+http://192.168.50.1:22025/rtp/239.20.0.89:3044
 #EXTINF:-1 group-title="卫视" tvg-name="北京卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/北京卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",北京卫视
-rtp://239.20.0.121:2040
+http://192.168.50.1:22025/rtp/239.20.0.121:2040
 #EXTINF:-1 group-title="卫视" tvg-name="云南卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/云南卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",云南卫视
-rtp://239.21.0.133:3876
+http://192.168.50.1:22025/rtp/239.21.0.133:3876
 #EXTINF:-1 group-title="卫视" tvg-name="贵州卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/贵州卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",贵州卫视
-rtp://239.20.0.212:2222
+http://192.168.50.1:22025/rtp/239.20.0.212:2222
 #EXTINF:-1 group-title="卫视" tvg-name="四川卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/四川卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",四川卫视
-rtp://239.20.0.194:2186
+http://192.168.50.1:22025/rtp/239.20.0.194:2186
 #EXTINF:-1 group-title="卫视" tvg-name="重庆卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/重庆卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",重庆卫视
-rtp://239.20.0.195:2188
+http://192.168.50.1:22025/rtp/239.20.0.195:2188
 #EXTINF:-1 group-title="卫视" tvg-name="青海卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/青海卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",青海卫视
-rtp://239.21.0.144:3920
+http://192.168.50.1:22025/rtp/239.21.0.144:3920
 #EXTINF:-1 group-title="卫视" tvg-name="甘肃卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/甘肃卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",甘肃卫视
-rtp://239.21.0.141:3908
+http://192.168.50.1:22025/rtp/239.21.0.141:3908
 #EXTINF:-1 group-title="卫视" tvg-name="西藏卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/西藏卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",西藏卫视
-rtp://239.21.0.162:3996
+http://192.168.50.1:22025/rtp/239.21.0.162:3996
 #EXTINF:-1 group-title="卫视" tvg-name="新疆卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/新疆卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",新疆卫视
-rtp://239.21.0.163:4000
+http://192.168.50.1:22025/rtp/239.21.0.163:4000
 #EXTINF:-1 group-title="卫视" tvg-name="兵团卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/兵团卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",兵团卫视
-rtp://239.21.0.164:4004
+http://192.168.50.1:22025/rtp/239.21.0.164:4004
 #EXTINF:-1 group-title="卫视" tvg-name="宁夏卫视" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/宁夏卫视.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",宁夏卫视
-rtp://239.21.0.165:4008
+http://192.168.50.1:22025/rtp/239.21.0.165:4008
 #EXTM3U x-tvg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml"
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广州综合.png" group-title="地方",广州综合
 http://r.jdshipin.com/snhya
@@ -227,37 +227,37 @@ https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68
 #EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/广州法治.png" group-title="地方",广州法治
 http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 #EXTINF:-1 group-title="地方" tvg-name="汕头综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/汕头新闻综合.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",汕头综合
-rtp://239.21.0.101:3744
+http://192.168.50.1:22025/rtp/239.21.0.101:3744
 #EXTINF:-1 group-title="地方" tvg-name="汕头经济生活" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/汕头经济生活.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",汕头经济生活
-rtp://239.21.0.102:3748
+http://192.168.50.1:22025/rtp/239.21.0.102:3748
 #EXTINF:-1 group-title="地方" tvg-name="揭阳综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/揭阳综合.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",揭阳综合
-rtp://239.21.0.91:3704
+http://192.168.50.1:22025/rtp/239.21.0.91:3704
 #EXTINF:-1 group-title="地方" tvg-name="揭阳生活" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/揭阳生活.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",揭阳生活
-rtp://239.21.0.92:3708
+http://192.168.50.1:22025/rtp/239.21.0.92:3708
 #EXTINF:-1 group-title="地方" tvg-name="潮州综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/潮州综合.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",潮州综合
-rtp://239.21.0.145:3924
+http://192.168.50.1:22025/rtp/239.21.0.145:3924
 #EXTINF:-1 group-title="地方" tvg-name="潮州民生" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/潮州民生.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",潮州民生
-rtp://239.21.0.146:3928
+http://192.168.50.1:22025/rtp/239.21.0.146:3928
 #EXTINF:-1 group-title="地方" tvg-name="汕尾新闻综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/汕尾新闻综合.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",汕尾新闻综合
-rtp://239.21.0.89:3696
+http://192.168.50.1:22025/rtp/239.21.0.89:3696
 #EXTINF:-1 group-title="地方" tvg-name="汕尾文化生活" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/汕尾文化生活.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",汕尾文化生活
-rtp://239.21.0.90:3700
+http://192.168.50.1:22025/rtp/239.21.0.90:3700
 #EXTINF:-1 group-title="地方" tvg-name="HZTV1" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/惠州一套.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",HZTV-1
-rtp://239.21.0.27:3448
+http://192.168.50.1:22025/rtp/239.21.0.27:3448
 #EXTINF:-1 group-title="地方" tvg-name="HZTV2" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/惠州二套.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",HZTZ-2
-rtp://239.21.0.28:3452
+http://192.168.50.1:22025/rtp/239.21.0.28:3452
 #EXTINF:-1 group-title="地方" tvg-name="东莞综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/东莞新闻综合.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",东莞综合
-rtp://239.21.0.137:3892
+http://192.168.50.1:22025/rtp/239.21.0.137:3892
 #EXTINF:-1 group-title="地方" tvg-name="东莞生活资讯" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/东莞生活资讯.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",东莞生活资讯
-rtp://239.21.0.138:3896
+http://192.168.50.1:22025/rtp/239.21.0.138:3896
 #EXTINF:-1 group-title="地方" tvg-name="河源新闻综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/河源综合.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",河源新闻综合
-rtp://239.21.0.48:3532
+http://192.168.50.1:22025/rtp/239.21.0.48:3532
 #EXTINF:-1 group-title="地方" tvg-name="河源公共" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/河源公共.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",河源公共
-rtp://239.21.0.49:3536
+http://192.168.50.1:22025/rtp/239.21.0.49:3536
 #EXTINF:-1 group-title="地方" tvg-name="梅州综合" tvg-logo="https://isus.cc/share/logo/%E8%A7%B8%E9%9B%BB%E6%96%B0%E8%81%9E/%E6%A2%85%E5%B7%9E%E7%BB%BC%E5%90%88.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",梅州综合
-rtp://239.21.0.149:3940
+http://192.168.50.1:22025/rtp/239.21.0.149:3940
 #EXTINF:-1 group-title="地方" tvg-name="梅州客家生活" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/梅州客家生活.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",梅州客家生活
-rtp://239.21.0.150:3944
+http://192.168.50.1:22025/rtp/239.21.0.150:3944
 #EXTINF:-1 tvg-id="五华综合" tvg-name="五华综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/五华综合.png" group-title="地方",五华综合
 http://pull-hsbj.vzan.com/v/slowlive_621139761151691240.flv
 #EXTINF:-1 tvg-id="五华综合" tvg-name="五华综合" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/五华综合.png" group-title="地方",五华综合
@@ -281,37 +281,37 @@ https://zmylivestream.nfnews.com/zmy_slive/25319.m3u8
 #EXTINF:-1 tvg-id="清远公共" tvg-name="清远公共" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/清远公共.png" group-title="地方",清远公共
 https://zmylivestream.nfnews.com/zmy_slive/25321.m3u8
 #EXTINF:-1 group-title="教育" tvg-name="CETV-1" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CETV1.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CETV-1
-rtp://239.20.0.213:2224
+http://192.168.50.1:22025/rtp/239.20.0.213:2224
 #EXTINF:-1 group-title="教育" tvg-name="CETV-4" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CETV4.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CETV-4
-rtp://239.21.0.142:3912
+http://192.168.50.1:22025/rtp/239.21.0.142:3912
 #EXTINF:-1 group-title="教育" tvg-name="早期教育" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CETV早期教育.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",早期教育
-rtp://239.21.0.106:3764
+http://192.168.50.1:22025/rtp/239.21.0.106:3764
 #EXTINF:-1 group-title="教育" tvg-name="现代教育" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/现代教育.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",现代教育
-rtp://239.21.0.148:3936
+http://192.168.50.1:22025/rtp/239.21.0.148:3936
 #EXTINF:-1 group-title="体育" tvg-name="IPTV5+" tvg-logo="https://epg.51zmt.top:8001/tb1/qt/IPTV5+.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",IPTV5+
-rtp://239.20.0.208:2214
+http://192.168.50.1:22025/rtp/239.20.0.208:2214
 #EXTINF:-1 group-title="纪实" tvg-name="纪实人文" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/纪实人文.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",纪实人文
-rtp://239.20.0.57:3172
+http://192.168.50.1:22025/rtp/239.20.0.57:3172
 #EXTINF:-1 group-title="纪实" tvg-name="求索纪录" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/求索纪录.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",求索纪录
-rtp://239.21.0.118:3816
+http://192.168.50.1:22025/rtp/239.21.0.118:3816
 #EXTINF:-1 group-title="纪实" tvg-name="金鹰纪实" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/金鹰纪实.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",金鹰纪实
-rtp://239.20.0.196:2190
+http://192.168.50.1:22025/rtp/239.20.0.196:2190
 #EXTINF:-1 group-title="少儿" tvg-name="嘉佳卡通" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/嘉佳卡通.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",嘉佳卡通
-rtp://239.21.0.94:3716
+http://192.168.50.1:22025/rtp/239.21.0.94:3716
 #EXTINF:-1 group-title="少儿" tvg-name="金鹰卡通" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/金鹰卡通.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",金鹰卡通
-rtp://239.21.0.115:3804
+http://192.168.50.1:22025/rtp/239.21.0.115:3804
 #EXTINF:-1 group-title="外语" tvg-name="CGTN英语" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CGTN英语
-rtp://239.21.0.109:3776
+http://192.168.50.1:22025/rtp/239.21.0.109:3776
 #EXTINF:-1 group-title="外语" tvg-name="CGTN西语" tvg-logo="https://isus.cc/share/logo/CGTN-西班牙语.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CGTN西班牙语
-rtp://239.21.0.111:3800
+http://192.168.50.1:22025/rtp/239.21.0.111:3800
 #EXTINF:-1 group-title="外语" tvg-name="CGTN阿语" tvg-logo="https://isus.cc/share/logo/CGTN-阿拉伯语.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CGTN阿拉伯语
-rtp://239.21.0.113:3792
+http://192.168.50.1:22025/rtp/239.21.0.113:3792
 #EXTINF:-1 group-title="外语" tvg-name="CGTN法语" tvg-logo="https://isus.cc/share/logo/CGTN-法语.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CGTN法语
-rtp://239.21.0.112:3788
+http://192.168.50.1:22025/rtp/239.21.0.112:3788
 #EXTINF:-1 group-title="外语" tvg-name="CGTN俄语" tvg-logo="https://isus.cc/share/logo/CGTN-俄语.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CGTN俄语
-rtp://239.21.0.114:3796
+http://192.168.50.1:22025/rtp/239.21.0.114:3796
 #EXTINF:-1 group-title="外语" tvg-name="CGTN纪录" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/CGTN记录.png" epg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml",CGTN纪录
-rtp://239.21.0.110:3780
+http://192.168.50.1:22025/rtp/239.21.0.110:3780
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/中天新闻台.png" group-title="台湾",中天新闻
 http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="東森新聞台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/东森新闻.png" group-title="台湾",東森新聞
@@ -463,6 +463,7 @@ http://php.jdshipin.com/smt.php?id=Celestial2
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-id="1905国内电影" tvg-name="1905国内电影" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/1905电影.png" group-title="电影",1905国内电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy
+
 
 
 
