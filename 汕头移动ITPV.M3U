@@ -359,9 +359,9 @@ http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/TVBPLUS.png" epg-url="https://epg.pw/api/epg.xml?channel_id=368361" group-title="港澳",TVB Plus
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/无线新闻台.png" group-title="港澳",无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.ctv
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/无线新闻台.png" group-title="港澳",无线新闻
-http://r.jdshipin.com/CkuBd
+https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/无线新闻台.png" group-title="港澳",无线新闻
 http://feng163.com:8001/bysid/83
 #EXTINF:-1 tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/TVB娱乐新闻台.png" group-title="港澳",TVB娱乐新闻台
@@ -463,6 +463,7 @@ http://php.jdshipin.com/smt.php?id=Celestial2
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-id="1905国内电影" tvg-name="1905国内电影" tvg-logo="http://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/1905电影.png" group-title="电影",1905国内电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy
+
 
 
 
